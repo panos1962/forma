@@ -1,0 +1,20 @@
+.pedio {
+	margin: 8px;
+	padding: 4px 20px 4px 8px;
+	background-color: #fefff3;
+	box-shadow: -1px -1px 2px #d4d4d4;
+	border-radius: 6px 0 0 0;
+}
+
+.pedio label {
+	display: block;
+	font-style: italic;
+}
+
+.pedio input {
+	width: 100%;
+}
+
+.pedio select {
+	width: 100%;
+}
